@@ -74,11 +74,29 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    # labels[0]: {
-    #   "texts": ["윈터는", "이쁜", "한국여자다"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/CoJJHgj-79g?si=ostfq_8oJbYJQnBE"]
-    # },
+      labels[0]: {
+       "texts": ["닝닝은", "이쁜", "중국여자다"],
+       "images": ["https://dimg.donga.com/wps/SPORTS/IMAGE/2025/06/11/131786075.1.jpg", "https://pimg.mk.co.kr/news/cms/202408/31/news-p.v1.20240831.a99cdc5c002d4bcc8532ae7f50d5d65e_R.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=Dvt7ZPL15xU"]
+     },
+    
+      labels[1]: {
+       "texts": ["윈터는", "이쁜", "한국여자다"],
+       "images": ["https://news.nateimg.co.kr/orgImg/sw/2024/06/03/20240603509255.jpg", "https://sungyesa.com/new/data/file/secret/988486029_UV9Hq6Zt_IMG_8053.jpeg"],
+       "videos": ["https://www.youtube.com/watch?v=xKeZapgDlHA"]
+     }, 
+
+      labels[2]: {
+       "texts": ["지젤은", "이쁜", "일본여자다"],
+       "images": ["https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/15/e99fbff9-1a19-492a-9bf6-0635321e9cad.jpg", "https://cdn.topstarnews.net/news/photo/202504/15627251_1531755_3130.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=RFz5XIEXxag&list=RDRFz5XIEXxag&start_radio=1"]
+     },
+
+      labels[3]: {
+       "texts": ["카리나는", "이쁜", "한국여자다"],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJLyJANGH9FTTFgzH_8jCWyAynwLJk_OUpQ&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQednSodl5axLPiHxpbiV2MVOEEVILM-r7-NQ&s"],
+       "videos": ["https://www.youtube.com/watch?v=1U2vTeZklbw&list=RD1U2vTeZklbw&start_radio=1"]
+     },
 }
 
 # ======================
