@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
       labels[0]: {
        "texts": ["닝닝은", "이쁜", "중국여자다"],
-       "images": ["https://dimg.donga.com/wps/SPORTS/IMAGE/2025/06/11/131786075.1.jpg", "https://pimg.mk.co.kr/news/cms/202408/31/news-p.v1.20240831.a99cdc5c002d4bcc8532ae7f50d5d65e_R.jpg"],
+       "images": ["https://dimg.donga.com/wps/SPORTS/IMAGE/2025/06/11/131786075.1.jpg", "https://img.sportsworldi.com/content/image/2024/07/24/20240724509732.jpg"],
        "videos": ["https://www.youtube.com/watch?v=Dvt7ZPL15xU"]
      },
     
